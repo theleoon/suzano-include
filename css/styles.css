@@ -35,7 +35,7 @@ main {
 }
 
 /* 5. ESTILO DOS CARTÕES (Formulário e Painel) */
-.card-cadastro, .painel-imagens {
+.painel-cadastro, .painel-imagens {
     background-color: white;
     padding: 30px;
     border-radius: 12px; /* Bordas arredondadas */
@@ -45,7 +45,7 @@ main {
 }
 
 /* Estilo para todos os títulos H4 dentro dos cartões */
-.card-cadastro h4, .painel-imagens h4 {
+.painel-cadastro h4, .painel-imagens h4 {
     color: #2c3e50;
     margin-bottom: 20px;
     padding-bottom: 10px;
@@ -98,3 +98,4 @@ button {
 button:hover {
     background-color: #2980b9; /* Azul um pouco mais escuro */
 }
+
